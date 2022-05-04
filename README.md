@@ -27,3 +27,7 @@
 	<a href="https://atom.io/"> <img align="left" alt="Atom" width="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" /> </a>
 	<a href="https://jupyter.org/"> <img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" /> </a>
 </p>
+
+
+
+![xP9nda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xP9nda&show_icons=true&theme=dracula)
