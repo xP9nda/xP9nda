@@ -14,7 +14,12 @@
 
 #
 
-### Languages and Software
+### Languages
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" />][python]
+
+[python]: https://www.python.org/
+
+### Software
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" style="padding-right:10px;" />][jupyter]
 
 [jupyter]: https://jupyter.org/
