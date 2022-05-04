@@ -15,11 +15,7 @@
 #
 
 ### Languages
-[<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" />](https://www.python.org/)
-[<img align="left" alt="Luau" width="32px" src="https://luau-lang.org/assets/images/luau-88.png" style="padding-right:10px;" />](https://luau-lang.org/)
-
-<br />
-
-### Software
-[<img align="left" alt="Atom" width="32px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" style="padding-right:10px;" />](https://atom.io/)
-[<img align="left" alt="Jupyter Notebook" width="32px" src="https://jupyter.org/assets/homepage/main-logo.svg" style="padding-right:10px;" />](https://jupyter.org/)
+<p float="left">
+	<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" />(https://www.python.org/)
+	<img align="left" alt="Luau" width="32px" src="https://luau-lang.org/assets/images/luau-88.png" style="padding-right:10px;" />(https://luau-lang.org/)
+</p>
