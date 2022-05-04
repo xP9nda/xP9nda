@@ -34,7 +34,7 @@
 
 ### GitHub Statistics
 <p float="left">
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=xP9nda&show_icons=true&theme=dracula&hide_title=true" />
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xP9nda&show_icons=true&theme=dracula&hide_title=true" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=xP9nda&show_icons=true&theme=dracula" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xP9nda&show_icons=true&theme=dracula&layout=compact" />
 </p>
 
