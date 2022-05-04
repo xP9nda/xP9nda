@@ -34,5 +34,8 @@
 
 ### GitHub Statistics
 <p float="left">
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xP9nda&show_icons=true&theme=dracula&hide_title=true)]
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=xP9nda" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xP9nda" />
 </p>
+
+
