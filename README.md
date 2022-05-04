@@ -2,7 +2,7 @@
 
 <br />
 
-<p align="center"> xP9nda / panda | 🌍 United Kingdom | 🍰🎂 27/04 </p>
+<p align="center"> 🐼 panda | 🌍 UK | 🎂 27/04 </p>
 
 <!--
 **xP9nda/xP9nda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
