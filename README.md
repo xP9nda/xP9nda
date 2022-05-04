@@ -1,7 +1,9 @@
 ## <p align="center"> Welcome to my profile! </p>
 
 #
+
 <p align="center"> 🐼 panda | 🌍 UK | 🎂 27/04 </p>
+
 #
 
 ### About Me
