@@ -4,6 +4,8 @@
 
 <p align="center"> 🐼 panda | 🌍 UK | 🎂 27/04 </p>
 
+<br />
+
 ### About Me
 - 🍰 **Age:** 17
 - 🏷 **Pronouns:** he/him
