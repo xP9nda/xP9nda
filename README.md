@@ -7,7 +7,12 @@
 <br />
 
 ## About Me
-**a**a
+**- Age:** 17
+**- Pronouns:** he/him
+**- Location:** United Kingdom
+**- Favourite Food:** Chocolate chip cookies & pizza
+**- Favourite Game:** Minecraft
+**- Fun Fact:** I have watched 5,473 episodes of 204 shows, and had 449 plays of 346 movies
 
 <!--
 **xP9nda/xP9nda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
