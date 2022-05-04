@@ -28,6 +28,9 @@
 	<a href="https://jupyter.org/"> <img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" /> </a>
 </p>
 
+<br />
 
-
-![xP9nda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xP9nda&show_icons=true&theme=dracula)
+### GitHub Statistics
+<p float="left">
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=xP9nda&show_icons=true&theme=dracula" />
+</p>
