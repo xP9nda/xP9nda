@@ -15,4 +15,6 @@
 #
 
 ### Languages and Software
-[<img align="left" alt="Jupyter Notebook" width="32px" src="https://jupyter.org/assets/homepage/main-logo.svg" style="padding-right:10px;"  />][jupyter_link]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" style="padding-right:10px;" />][jupyter]
+
+[jupyter]: https://jupyter.org/
