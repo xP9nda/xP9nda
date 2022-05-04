@@ -19,6 +19,8 @@
 
 [python]: https://www.python.org/
 
+<br />
+
 ### Software
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" style="padding-right:10px;" />][jupyter]
 
