@@ -1,10 +1,8 @@
 # <p align="center"> Welcome to my profile! </p>
 
-<br />
-
+***
 <p align="center"> 🐼 panda | 🌍 UK | 🎂 27/04 </p>
-
-<br />
+***
 
 ### About Me
 - 🍰 **Age:** 17
