@@ -28,6 +28,8 @@
 	<a href="https://jupyter.org/"> <img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" /> </a>
 </p>
 
+<br />
+
 #
 
 ### GitHub Statistics
