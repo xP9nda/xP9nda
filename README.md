@@ -16,6 +16,7 @@
 
 ### Languages
 <p float="left">
+	<p> - </p>
 	<a href="https://www.python.org/"> <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> </a>
 	<a href="https://luau-lang.org/"> <img align="left" alt="Luau" width="26px" src="https://luau-lang.org/assets/images/luau-88.png" /> </a>
 </p>
@@ -24,6 +25,7 @@
 
 ### Software
 <p float="left">
+	<p> - </p>
 	<a href="https://atom.io/"> <img align="left" alt="Atom" width="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" /> </a>
 	<a href="https://jupyter.org/"> <img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" /> </a>
 </p>
