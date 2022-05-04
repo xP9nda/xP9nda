@@ -16,6 +16,9 @@
 
 ### Languages
 <p float="left">
-	<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" />(https://www.python.org/)
-	<img align="left" alt="Luau" width="32px" src="https://luau-lang.org/assets/images/luau-88.png" style="padding-right:10px;" />(https://luau-lang.org/)
+	[<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" />][python]
+	[<img align="left" alt="Luau" width="32px" src="https://luau-lang.org/assets/images/luau-88.png" style="padding-right:10px;" />][luau]
 </p>
+
+[python]: https://www.python.org/
+[luau]: https://luau-lang.org/
