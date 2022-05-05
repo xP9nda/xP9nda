@@ -33,7 +33,7 @@
 #
 
 ### GitHub Statistics
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xP9nda&show_icons=true&theme=dracula" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=xP9nda&show_icons=true&theme=dracula)]
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xP9nda&show_icons=true&theme=dracula&layout=compact" />
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xP9nda&show_icons=true&theme=dracula&layout=compact)]
 
