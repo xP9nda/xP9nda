@@ -10,7 +10,7 @@
 - 🌍 **Location:** United Kingdom
 - 🍪 **Favourite Food:** Chocolate chip cookies & pizza
 - 🎮 **Favourite Game:** Minecraft
-- 🎥 **Fun Fact:** I have watched 5,489 episodes of 205 shows, and had 455 plays of 350 movies
+- 🎥 **Fun Fact:** I have watched 5,621 episodes of 282 different shows, and have had 473 plays of 363 different movies
 
 #
 
