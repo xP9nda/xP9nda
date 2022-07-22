@@ -24,6 +24,7 @@
 
 ### Software
 <p float="left">
+	<a href="https://code.visualstudio.com/"> <img align="left" alt="VS Code" width="26px" src="ttps://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /> </a>
 	<a href="https://atom.io/"> <img align="left" alt="Atom" width="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" /> </a>
 	<a href="https://jupyter.org/"> <img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" /> </a>
 </p>
