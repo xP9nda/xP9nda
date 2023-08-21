@@ -71,6 +71,7 @@
   <!-- > Tools <-->
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=visualstudiocode&logoColor=154e41&label=visual%20studio%20code&labelColor=ffffff&color=154e41" />
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=intellijidea&logoColor=154e41&label=intellij%20idea&labelColor=ffffff&color=154e41" />
+  <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=rider&logoColor=154e41&label=rider&labelColor=ffffff&color=154e41" />
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=pycharm&logoColor=154e41&label=pycharm&labelColor=ffffff&color=154e41" />
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=git&logoColor=154e41&label=git%20%26%20github&labelColor=ffffff&color=154e41" />
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=robloxstudio&logoColor=154e41&label=roblox%20studio&labelColor=ffffff&color=154e41" />
