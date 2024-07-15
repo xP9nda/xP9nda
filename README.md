@@ -1,9 +1,9 @@
 <!-- > Image banner <-->
-<div align="center">
+<!-- > <div align="center">
   
   <img src="https://i.imgur.com/xcf0cta.png" draggable="false" />
   
-</div>
+</div> <-->
 
 <!-- > Welcome title & profile views counter <-->
 <div align="center">
@@ -15,16 +15,16 @@
 <hr />
 
 <!-- > Contact section <-->
-<div align="left">
+<!-- ><div align="left">
   
   <h3>About me:</h3>
 
   <p>
     Hi, I'm Joshua, an 18-year-old self-taught programmer from the UK. I've been coding for 5 years, learned multiple languages, and I am mostly interested in creating games. I try to make my code open source for those who are interested, if you would like to get in touch, use the buttons below!
-  </p>
+  </p> <-->
 
   <!-- > Contact <-->
-  <a href="https://discord.com/users/284049301443969024" target="_blank">
+  <!-- ><a href="https://discord.com/users/284049301443969024" target="_blank">
     <img src="https://img.shields.io/badge/xp9nda-txt?style=for-the-badge&logo=discord&logoColor=4eab59&label=discord&labelColor=ffffff&color=4eab59" />
   </a>
 
@@ -37,7 +37,7 @@
 <hr />
 
 <!-- > Projects section <-->
-<div align="left">
+<!-- ><div align="left">
   
   <h3>Check out my work:</h3>
   
@@ -55,11 +55,11 @@
 </div>
 
 <!-- > Tools and languages section <-->
-<div align="left">
+<!-- ><div align="left">
   <h3>Languages, software & hardware that I use:</h3>
 
   <!-- > Languages <-->
-  <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=python&logoColor=226649&label=python&labelColor=ffffff&color=226649" />
+  <!-- ><img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=python&logoColor=226649&label=python&labelColor=ffffff&color=226649" />
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=lua&logoColor=226649&label=lua&labelColor=ffffff&color=226649" />
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=csharp&logoColor=226649&label=c%23&labelColor=ffffff&color=226649" />
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=unrealengine&logoColor=154e41&label=unreal%20blueprints&labelColor=ffffff&color=154e41" />
@@ -70,7 +70,7 @@
   <br />
 
   <!-- > Tools <-->
-  <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=visualstudiocode&logoColor=154e41&label=visual%20studio%20code&labelColor=ffffff&color=154e41" />
+  <!-- ><img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=visualstudiocode&logoColor=154e41&label=visual%20studio%20code&labelColor=ffffff&color=154e41" />
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=intellijidea&logoColor=154e41&label=intellij%20idea&labelColor=ffffff&color=154e41" />
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=rider&logoColor=154e41&label=rider&labelColor=ffffff&color=154e41" />
   <img src="https://img.shields.io/badge/%20-txt?style=for-the-badge&logo=pycharm&logoColor=154e41&label=pycharm&labelColor=ffffff&color=154e41" />
