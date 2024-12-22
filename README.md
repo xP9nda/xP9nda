@@ -95,13 +95,13 @@
 
 <!-- > Github stats section <-->
 
-[![xP9nda's Wakatime Stats](https://github-readme-stats-xp9nda.vercel.app/api/wakatime?username=xp9nda)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
   
   [![Top Languages](https://github-readme-stats-xp9nda.vercel.app/api/top-langs/?username=xp9nda&layout=donut&hide_border=true&title_color=ffffff&icon_color=4eab59&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   [![xP9nda's GitHub stats](https://github-readme-stats-xp9nda.vercel.app/api?username=xp9nda&hide_border=true&title_color=ffffff&icon_color=4eab59&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&ring_color=4eab59)](https://github.com/anuraghazra/github-readme-stats)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=xp9nda&hide_border=true&border_radius=0&background=0D1117&ring=FFFFFF&currStreakNum=4EAB59&fire=4EAB59&currStreakLabel=FFFFFF&sideNums=4EAB59&sideLabels=FFFFFF&dates=4EAB59&card_width=600)](https://git.io/streak-stats)
+
+  [![xP9nda's Wakatime Stats](https://github-readme-stats-xp9nda.vercel.app/api/wakatime?username=xp9nda&layout=compact&hide_border=true&title_color=ffffff&icon_color=4eab59&text_color=ffffff&bg_color=0d1117&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
