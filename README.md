@@ -95,7 +95,7 @@
 
 <!-- > Github stats section <-->
 
-[![xP9nda's wakatime stats]([https://github-readme-stats.vercel.app/](https://github-readme-stats-xp9nda.vercel.app/)api/wakatime?username=xP9nda)](https://github.com/anuraghazra/github-readme-stats)
+[![xP9nda's Wakatime Stats](https://github-readme-stats-xp9nda.vercel.app/api/wakatime?username=xp9nda)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   
